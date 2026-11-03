@@ -19,5 +19,5 @@ Procedure BubbleSort(arr, n)
         End For
     End For
 End Procedure
-
+```
 ![Bubble Sort Performance Graph](./bubble_sort_performance_graph.png)

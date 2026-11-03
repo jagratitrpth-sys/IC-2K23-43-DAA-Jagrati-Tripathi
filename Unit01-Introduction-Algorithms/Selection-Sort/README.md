@@ -19,5 +19,5 @@ Procedure SelectionSort(arr, n)
         Swap arr[i] and arr[min_idx]
     End For
 End Procedure
-
+```
 ![Selection Sort Performance Graph](./selection_sort_performance_graph.png)
