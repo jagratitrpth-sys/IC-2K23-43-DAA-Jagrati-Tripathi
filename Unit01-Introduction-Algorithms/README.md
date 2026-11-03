@@ -9,7 +9,7 @@ All algorithms in this unit are benchmarked using a custom `Complexity_analyser.
 ### Sorting Algorithms
 * [Bubble Sort](./Bubble-Sort/) - $O(N^2)$ complexity, implemented iteratively and recursively.
 * [Selection Sort](./Selection-Sort/) - $O(N^2)$ complexity, minimizes the number of swaps.
-* *(Pending)* [Insertion Sort](./Insertion-Sort/) - $O(N^2)$ complexity, efficient for nearly sorted data.
+* [Insertion Sort](./Insertion-Sort/) - $O(N^2)$ complexity, efficient for nearly sorted data.
 
 ### Searching Algorithms
 * *(Pending)* [Linear Search](./Linear-Search/) - $O(N)$ complexity.
