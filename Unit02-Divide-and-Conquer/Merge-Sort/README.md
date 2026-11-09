@@ -34,4 +34,5 @@ Procedure Merge(left, right)
     Return sorted_arr
 End Procedure
 
+```
 ![Merge Sort Performance Graph](./merge_sort_performance_graph.png)
