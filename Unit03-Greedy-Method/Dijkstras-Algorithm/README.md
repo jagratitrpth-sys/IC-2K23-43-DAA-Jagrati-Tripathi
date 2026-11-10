@@ -39,4 +39,4 @@ End Procedure
 
 
 ```
-![Dijkstra's Algorithm Performance Graph](./dijkstra's_algorithm_performance_graph)
+![Dijkstra's Algorithm Performance Graph](./dijkstra's_algorithm_performance_graph.png)

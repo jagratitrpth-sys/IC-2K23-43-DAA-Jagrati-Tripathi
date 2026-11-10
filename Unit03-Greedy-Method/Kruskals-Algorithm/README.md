@@ -39,4 +39,4 @@ End Procedure
 
 
 ```
-![Kruskal's Algorithm Performance Graph](./kruskal's_algorithm_performance_graph)
+![Kruskal's Algorithm Performance Graph](./kruskal's_algorithm_performance_graph.png)

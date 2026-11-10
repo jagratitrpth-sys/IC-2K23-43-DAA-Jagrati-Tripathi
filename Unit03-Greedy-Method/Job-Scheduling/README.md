@@ -34,4 +34,4 @@ End Procedure
 
 
 ```
-![Job Scheduling Performance Graph](./job_scheduling_performance_graph)
+![Job Scheduling Performance Graph](./job_scheduling_performance_graph.png)

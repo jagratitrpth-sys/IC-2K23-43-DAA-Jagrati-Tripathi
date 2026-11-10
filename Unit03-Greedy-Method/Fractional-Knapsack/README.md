@@ -35,4 +35,4 @@ End Procedure
 
 
 ```
-![Fractional Knapsack Performance Graph](./fractional_knapsack_performance_graph)
+![Fractional Knapsack Performance Graph](./fractional_knapsack_performance_graph.png)

@@ -47,4 +47,4 @@ End Procedure
 
 
 ```
-![Prim's Algorithm Performance Graph](./prim's_algorithm_performance_graph)
+![Prim's Algorithm Performance Graph](./prim's_algorithm_performance_graph.png)

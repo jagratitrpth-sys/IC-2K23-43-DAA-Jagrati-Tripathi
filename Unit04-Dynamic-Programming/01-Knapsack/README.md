@@ -36,4 +36,4 @@ End Procedure
 
 
 ```
-![0-1 Knapsack (dp) Performance Graph](./0-1_knapsack_(dp)_performance_graph)
+![0-1 Knapsack (dp) Performance Graph](./0-1_knapsack_(dp)_performance_graph.png)
